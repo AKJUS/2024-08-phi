@@ -18,7 +18,7 @@
     "@prb/test": "^0.6.4",
     "forge-std": "github:foundry-rs/forge-std#v1",
     "prettier": "^3.0.0",
-    "solhint": "^3.6.2"
+    "solhint": "^5.0.5"
   },
   "keywords": [
     "blockchain",
